@@ -22,7 +22,7 @@ pip install numpy torch gymnasium stable-baselines3
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/shut-the-box-rl.git
+   git clone https://github.com/Ali-Noghabi/shot_the_box_rl.git
    cd shut-the-box-rl
    ```
 
@@ -69,11 +69,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenAI Gym](https://gym.openai.com/) for providing the framework for building reinforcement learning environments.
 - [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/) for the implementation of reinforcement learning algorithms.
 
-```
-
-### Customization
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- You can add more sections or modify existing ones based on your project's specifics, such as additional features, installation instructions, or usage examples.
-- If you have a license file, make sure to include it in the repository and reference it in the README.
-
-Feel free to adjust the content to better fit your project's goals and audience!
